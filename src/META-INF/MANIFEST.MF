@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Class-Path: json-20180813.jar okhttp-2.7.0.jar okio-1.6.0.jar gson-2.8
+ .5.jar commons-text-1.4.jar httpcore-4.4.6.jar httpclient-4.5.3.jar g
+ son-2.8.5.jar okio-1.6.0.jar jsoup-1.11.3.jar okhttp-2.7.0.jar json-2
+ 0180813.jar commons-io-2.5.jar httpcore-4.4.6.jar commons-text-1.4.ja
+ r httpclient-4.5.3.jar commons-lang3-3.5.jar gson-2.8.5-sources.jar o
+ kio-1.6.0-sources.jar commons-logging-1.2.jar jsoup-1.11.3-sources.ja
+ r okhttp-2.7.0-sources.jar commons-logging-1.0.4.jar json-20180813-so
+ urces.jar commons-httpclient-3.1.jar commons-io-2.5-sources.jar httpc
+ ore-4.4.6-sources.jar commons-collections4-4.1.jar httpclient-4.5.3-s
+ ources.jar commons-lang3-3.5-sources.jar commons-logging-1.2-sources.
+ jar commons-logging-1.0.4-javadoc.jar commons-logging-1.0.4-sources.j
+ ar commons-httpclient-3.1-sources.jar commons-collections4-4.1-source
+ s.jar jsoup-1.11.3.jar commons-collections4-4.1.jar commons-httpclien
+ t-3.1.jar commons-io-2.5.jar commons-lang3-3.5.jar commons-logging-1.
+ 2.jar commons-logging-1.0.4.jar
+Main-Class: Main
+
